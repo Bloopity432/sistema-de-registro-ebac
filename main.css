@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+nav{
+    background-color: #1A4923;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 32px;
+}
+
+p{
+    margin: 0;
+}
+
+input{
+    background-color: #d9d9d9;
+    height: 47px;
+    width: 415px;
+    margin-top: 48px;
+}
+
+form{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    height: 50px;
+    width: 285px;
+    margin-top: 48px;
+    background-color: #A5E4B2;
+}
+
+.title-nav{
+    color: white;
+    font-size: 36px;
+}
+
+.subtitle{
+    font-size: 21px;
+    margin-top: 60px;
+}
